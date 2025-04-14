@@ -6,7 +6,8 @@
 - 工具与环境: Git Webpack Vite
 ### 🌱 正在进行中的项目
 - 是关于莎头的一个网站
-  - 所用技术栈：Vue 3 + TypeScript + Vite + TailwindCSS + Aros Design</br>
+  - 所用技术栈：Vue 3 + TypeScript + Vite
+  - 样式及组件库：TailwindCSS + Aros Design
   - 网站地址  **celebrate**: https://5114.rayin.cc
 ### 📝 博客
 - 🔭 博客园个人主页（里面会放一些文章和碎碎念）：https://www.cnblogs.com/ywyc
