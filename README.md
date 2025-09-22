@@ -9,7 +9,7 @@
 - 状态管理器：Pinia‌
 - 工具与环境: Git Webpack Vite
 ### 🌱 正在进行中的项目
-- 是关于莎头的一个网站
+- 是关于中国乒乓球队孙颖莎和王楚钦的一个网站
   - 所用技术栈：Vue 3 + TypeScript + Pinia‌ + Vite
   - 样式及组件库：TailwindCSS + Aros Design
   - 网站地址  **celebrate**: https://celebrate.zller.cn
